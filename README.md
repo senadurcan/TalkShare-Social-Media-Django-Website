@@ -20,9 +20,9 @@ Twitter fonksiyonlarının aynısı fakat tasarım olarak farklı bir websitesi 
 
 ![Uygulama Ekran Görüntüsü](https://r.resimlink.com/hfviN.png)
 
-  
 Websitesine giriş yapabilmek için ilk önce kayıt olması gerekiyor. Kayıt olabilir yada giriş yapabilir.
 Daha sonrasında websitenin anasayfasına erişim sağlanmış olacaktır.
+
 ## talkShare Anasayfa
 
 ![Uygulama Ekran Görüntüsü](https://r.resimlink.com/Yt_swuoF2DL.png)
