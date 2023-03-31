@@ -25,7 +25,7 @@ Daha sonrasında websitenin anasayfasına erişim sağlanmış olacaktır.
 
 ## talkShare Anasayfa
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/Yt_swuoF2DL.png)
+![Uygulama Ekran Görüntüsü](https://r.resimlink.com/4Ko-a6HQ.png)
 
 Sol tarafta menu bölümü orta da tüm postların olması sağda ise mesaj ve keşfet bölümünde kategoriye ve posta göre random gelen bölüm mevcut.
 Postlardan birine tıklanıldığı zaman tüm postlar sayfasına yönlendirmesi mevcut. Daha sonra yorum ve beğen yapılabilir.
