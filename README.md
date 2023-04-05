@@ -18,7 +18,7 @@ Twitter fonksiyonlarının aynısı fakat tasarım olarak farklı bir websitesi 
   
 ## Kullanıcı Login - Register Sayfası
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/hfviN.png)
+![Uygulama Ekran Görüntüsü](https://www.hizliresim.com/q1zzx48)
 
 Websitesine giriş yapabilmek için ilk önce kayıt olması gerekiyor. Kayıt olabilir yada giriş yapabilir.
 Daha sonrasında websitenin anasayfasına erişim sağlanmış olacaktır.
